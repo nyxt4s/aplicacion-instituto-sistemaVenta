@@ -1,0 +1,44 @@
+C:\Users\Gonzalo\Desktop\solprueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\Gonzalo\Desktop\solprueba\prueba\bin\Debug\prueba.exe
+C:\Users\Gonzalo\Desktop\solprueba\prueba\bin\Debug\prueba.pdb
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.Acceso.resources
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.Finanzas.resources
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.Clientes.resources
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.Lobby.resources
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.Login.resources
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.Materiales.resources
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.Menú.resources
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.Pedidos.resources
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.Stock.resources
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.exe
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.pdb
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.csprojAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\solprueba\prueba\bin\Debug\prueba.exe.manifest
+C:\Users\Gonzalo\Desktop\solprueba\prueba\bin\Debug\prueba.application
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.exe.manifest
+C:\Users\Gonzalo\Desktop\solprueba\prueba\obj\Debug\prueba.application
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\bin\Debug\prueba.exe.config
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\bin\Debug\prueba.exe.manifest
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\bin\Debug\prueba.application
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\bin\Debug\prueba.exe
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\bin\Debug\prueba.pdb
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.csprojAssemblyReference.cache
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.Acceso.resources
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.Finanzas.resources
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.Clientes.resources
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.Lobby.resources
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.Login.resources
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.Materiales.resources
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.Menú.resources
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.Pedidos.resources
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.Stock.resources
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.csproj.GenerateResource.cache
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.exe.manifest
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.application
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.exe
+C:\Users\NYXTH\Desktop\solprueba - copia\prueba\obj\Debug\prueba.pdb
